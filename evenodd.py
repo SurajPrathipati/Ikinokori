@@ -1,6 +1,7 @@
 # Program to calculate even and odd count based on input value
 
 # Taking the number of test cases
+print("Surya is Gay")
 t = int(input("Enter testcase: "))
 
 while t > 0:
